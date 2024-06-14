@@ -1,6 +1,3 @@
-# Real Estate App
+#NestQuest: Your Ultimate Real Estate Solution
 
-![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+NestQuest is a cutting-edge platform designed to streamline the process of renting and buying properties. With a user-friendly interface and robust features, NestQuest simplifies property search, allowing users to find their dream home or investment opportunity with ease.
